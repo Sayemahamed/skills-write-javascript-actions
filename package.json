@@ -6,7 +6,7 @@
     "@types/bun": "latest"
   },
   "scripts": {
-    "build": "bun build main.js --outdir .github/actions/fileSync --outfile main.js --target=node"
+    "build": "bun build main.js --outdir .github/actions/joke-action --outfile main.js --target=node"
   },
   "dependencies": {
     "@actions/core": "^1.11.1",
