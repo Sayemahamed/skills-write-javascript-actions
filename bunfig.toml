@@ -1,2 +1,0 @@
-[scripts]
-build = "bun build src/index.js --outdir dist --outfile bundle.js --target=node"

@@ -5,8 +5,8 @@
   "devDependencies": {
     "@types/bun": "latest"
   },
-  "peerDependencies": {
-    "typescript": "^5.7.3"
+  "scripts": {
+    "build": "bun build main.js --outdir .github/actions/fileSync --outfile main.js --target=node"
   },
   "dependencies": {
     "@actions/core": "^1.11.1",
