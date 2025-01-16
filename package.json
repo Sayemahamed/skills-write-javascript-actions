@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "browserify": "^17.0.1",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
